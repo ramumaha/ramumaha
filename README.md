@@ -34,9 +34,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ramumaha&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ramumaha&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   ![](https://github-readme-streak-stats.herokuapp.com/?user=ramumaha&theme=dark&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+
+
+  ![](https://github-readme-stats.vercel.app/api?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramumaha&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
 
