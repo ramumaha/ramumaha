@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[!(./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[!(./img/twitter-dark.svg)](https://twitter.com/kanyalakshmig)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]
+(https://twitter.com/kanyalakshmig)
 &nbsp;&nbsp;
-<!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only) -->
-[(./img/linkedin-dark.svg)](https://www.linkedin.com/in/kanyalakshmi-g-b875a41b3/#gh-dark-mode-only)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanyalakshmi-g-b875a41b3)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
@@ -33,12 +33,6 @@
 <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ramumaha&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ramumaha&theme=dark&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
-
-
   ![](https://github-readme-stats.vercel.app/api?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramumaha&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
