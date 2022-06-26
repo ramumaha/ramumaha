@@ -1,10 +1,10 @@
 # Hi there, I'm Kanya  👋 
 
-## I'm a , Father, Developer, and Teacher!!
+## I'm a Developer , leader , team member !
 
 - 🌱 I’m currently learning DSA,web-development
 - 👯 I’m looking forward to 
-- 🥅 2022 Goals: conribute to open source
+- 🥅 2022 Goals: contribute to open source
 - ⚡ Fun fact: I love to read books and play badminton
 
 ### Connect with me:
@@ -14,6 +14,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="./img/c.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="./img/cpp.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
