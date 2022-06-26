@@ -1,8 +1,8 @@
-# Hi there, I'm Kanya - aka ramu 👋 
+# Hi there, I'm Kanya  👋 
 
 ## I'm a , Father, Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning DSA,web-development
 - 👯 I’m looking forward to 
 - 🥅 2022 Goals: conribute to open source
 - ⚡ Fun fact: I love to read books and play badminton
@@ -35,6 +35,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ramumaha&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ramumaha&theme=dark&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
 
