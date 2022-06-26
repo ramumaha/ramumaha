@@ -9,12 +9,7 @@
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]
-(https://twitter.com/kanyalakshmig)
-&nbsp;&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanyalakshmi-g-b875a41b3)
-&nbsp;&nbsp;
+[ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanyalakshmi-g-b875a41b3)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kanyalakshmig) 
 
 ### Languages and Tools:
 
