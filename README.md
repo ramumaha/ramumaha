@@ -1,11 +1,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 # Hi there, I'm Kanya  👋 
 
-## I'm a Developer , leader , team member !
+## I'm a Learner and a Developer !
 
-- 🌱 I’m currently learning DSA,web-development
-- 👯 I’m looking forward to 
-- 🥅 2022 Goals: contribute to open source
+- 🌱 I’m currently learning DSA,Flutter
+- 🥅 2022 Goals: contribute more towards open source
 - ⚡ Fun fact: I love to read books and play badminton
 
 ### Connect with me:
@@ -36,8 +35,8 @@
 <img  align="left" width="26px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left"  width="26px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"style="padding-right:10px;" />
           
-
           
           
           
