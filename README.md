@@ -33,7 +33,7 @@
  <img align="left" width="26px" alt="premierepro" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"  style="padding-right:10px;"/>
 <img align="left" width="26px" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  style="padding-right:10px;"/>
 
-<img align="left" width="26px" alt="numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"style="padding-right:10px;" />
+<!-- <img align="left" width="26px" alt="numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"style="padding-right:10px;" /> -->
 <img  align="left" width="26px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left"  width="26px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"style="padding-right:10px;" />
