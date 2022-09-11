@@ -36,15 +36,6 @@
 <img align="left"  width="26px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"style="padding-right:10px;" />
-          
-          
-          
-          
-                   
-          
-
-<br />
-<br />
 
 ![](https://github-readme-stats.vercel.app/api?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramumaha&theme=dark&hide_border=true)<br/>
