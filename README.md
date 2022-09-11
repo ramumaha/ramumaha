@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
-# Hi there, I'm Kanya  👋 
+
+## Hi there, I'm Kanya  👋 
 
 ## I'm a Learner and a Developer !
 
@@ -42,7 +43,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+[![](https://github-readme-stats.vercel.app/api?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)]
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramumaha&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
