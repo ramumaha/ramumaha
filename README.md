@@ -35,9 +35,9 @@
 
 <!-- <img align="left" width="26px" alt="numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"style="padding-right:10px;" /> -->
 <img  align="left" width="26px" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-<img align="left"  width="26px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"style="padding-right:10px;" />
+<img align="left"  width="26px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"s />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ramumaha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
