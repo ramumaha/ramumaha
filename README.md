@@ -2,8 +2,8 @@
 
 ## Hi there, I'm Kanya  👋 
 
-- 🌱 I’m currently learning DSA and Flutter
-- 🥅 2022 Goals: contribute more towards open source
+- 🌱 I’m currently learning DSA and React
+- 🥅 2024 Goals: try my hands on Native apps
 - ⚡ Fun fact: I love to read books and play badminton
 
 ### Connect with me:
